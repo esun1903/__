@@ -1,9 +1,9 @@
 # OS
 
-HTTPS 는  HTTP에서 보안성이 강화되었다고 생각하면 된다 
-
 ## HTTP 란?
-  -> Hypertext transfer protocol 의 약자 -> 인터넷에서 사용하는 웹서버와 사용자의 인터넷 브라우저 에 문서를 전송하기 위한 통신규약
+ 
+ HTTPS 는  HTTP에서 보안성이 강화되었다고 생각하면 된다 
+ -> Hypertext transfer protocol 의 약자 -> 인터넷에서 사용하는 웹서버와 사용자의 인터넷 브라우저 에 문서를 전송하기 위한 통신규약
  - 인터넷에서 하이퍼텍스트를 교환하기 위해 사용되는 통신규약! - 포트번호 80이다. 
  - HEAD, GET , POST, DELETE, OPTION 등의 메소드를 사용
  - 팀버너스리 World Wide Web
