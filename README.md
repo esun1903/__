@@ -105,3 +105,8 @@
       
         통신방식           1:1 통신              1:1 or 1:N or N:N
         
+## 접근제한자(public > protected > default > private)
+ public - 접근 제한이 없다.(같은 프로젝트 내에 어디서든 사용가능)
+ protected - 같은 패키지 내, 다른 패키지에서 상속받아 자손클래스에서 접근 가능 
+ default - 같은 패키지 내에서만 접근 가능
+ private - 같은 클래스 내에서만 접근 가능
